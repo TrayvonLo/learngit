@@ -7,3 +7,5 @@ This is wrote by Luo Qi.
 
 Creating a new branch is quick AND simple.
 
+
+add merge
